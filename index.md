@@ -1,12 +1,10 @@
----
-title: Welcome to my blog
----
+
 <h1>Hi, I'm Gayathri 👋</h1>
 <p>I’m learning web development and cybersecurity. This is my GitHub Pages portfolio site!</p>
 <h2>studies</h2>
 <ul>
-  <li>school-10% completion2020</li>
-  <li>intermidate 9.0 completion2022</li>
+  <li>school-10% completion 2020</li>
+  <li>intermidate 9.0 completion 2022</li>
   <li>currently pursing bachelor of enginnering </li>
 </ul>
 
